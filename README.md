@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haknkayaa&label=Profile%20views&color=0e75b6&style=flat" alt="haknkayaa" /> </p>
 
-- 🔭 I’m currently working on [MRADSIM](www.mradsim.com)
+- 🔭 I’m currently working on [MRADSIM](https://www.mradsim.com)
 
 - 👨‍💻 All of my projects are available at [www.hakankaya.kim](www.hakankaya.kim)
 
